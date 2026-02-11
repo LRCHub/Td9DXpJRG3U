@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "How-to",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-11T17:28:07.638682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How To Talk To Girls",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/01_How_To_Talk_To_Girls_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How to Say Goodbye",
+      "artist": "Dylan Marlowe",
+      "has_synced": false,
+      "path": "select/02_How_to_Say_Goodbye_Dylan_Marlowe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How to Rob",
+      "artist": "50 Cent feat. The Madd Rapper",
+      "has_synced": false,
+      "path": "select/03_How_to_Rob_50_Cent_feat._The_Madd_Rapper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How to Rob",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/04_How_to_Rob_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How to rob a rapper",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/05_How_to_rob_a_rapper_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How to disappear",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/06_How_to_disappear_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How to Disappear Completely",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_How_to_Disappear_Completely_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "How To Disappear Completely - BBC Radio One Evening Session - 15/11/00",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_How_To_Disappear_Completely_-_BBC_Radio_One_Evening_Session_-_15_11_00_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How to Disappear Completely (BBC Radio 1, 2000-11-15)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_How_to_Disappear_Completely_(BBC_Radio_1,_2000-11-15)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How To Disappear Completely - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_How_To_Disappear_Completely_-_Live_At_Canal+_Studios,_Paris_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How to Disappear Completely (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_How_to_Disappear_Completely_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do You Know How to Waltz",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/12_Do_You_Know_How_to_Waltz_Low.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How To Hate",
+      "artist": "Lil Wayne feat. T-Pain",
+      "has_synced": true,
+      "path": "select/13_How_To_Hate_Lil_Wayne_feat._T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How To Hate (Feat. T-Pain)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/14_How_To_Hate_(Feat._T-Pain)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How To Love",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/15_How_To_Love_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How to Talk",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/16_How_to_Talk_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How-to",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_How-to_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
